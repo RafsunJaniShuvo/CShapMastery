@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll
+E:\Development\C#Practice\C#Mastery\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.sourcelink.json
