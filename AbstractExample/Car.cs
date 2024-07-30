@@ -10,7 +10,7 @@ namespace AbstractExample
     {
         public override void Start() // when parent class has abstract method, if we extend that class we need to write override keyword
         {
-            Console.WriteLine($"Car Starting ");
+         Console.WriteLine($"Car Starting and top speed , {TopSpeed}");
         }
         public override void Stop() // when parent class has abstract method, if we extend that class we need to write override keyword
         {

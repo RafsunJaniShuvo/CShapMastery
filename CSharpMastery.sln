@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpInputOutput", "CSharp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{8FB7D808-1623-4B25-9166-BD824DFFB1C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticExample", "StaticExample\StaticExample.csproj", "{4619825E-FE40-46AA-97A7-A68E700F1EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticExample", "StaticExample\StaticExample.csproj", "{4619825E-FE40-46AA-97A7-A68E700F1EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractExample", "AbstractExample\AbstractExample.csproj", "{17A6A8C8-E993-440A-B902-A612876F562C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractExample", "AbstractExample\AbstractExample.csproj", "{17A6A8C8-E993-440A-B902-A612876F562C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureExample", "StructureExample\StructureExample.csproj", "{17AF8043-B955-4B79-BF5C-D947172C83A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{17A6A8C8-E993-440A-B902-A612876F562C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A6A8C8-E993-440A-B902-A612876F562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A6A8C8-E993-440A-B902-A612876F562C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AF8043-B955-4B79-BF5C-D947172C83A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AF8043-B955-4B79-BF5C-D947172C83A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AF8043-B955-4B79-BF5C-D947172C83A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AF8043-B955-4B79-BF5C-D947172C83A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

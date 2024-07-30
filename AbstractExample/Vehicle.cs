@@ -8,13 +8,18 @@ namespace AbstractExample
 {
     public abstract class Vehicle
     {
-        public double Speed { get; set; }
+        protected double TopSpeed { get; set; }
 
         public double Weight { get; set; }
 
         public string Color { get; set; }
 
         public int PassengerCount { get; set; }
+
+        public Vehicle()
+        {
+            TopSpeed = 100;
+        }
 
         public abstract void Start();
 
