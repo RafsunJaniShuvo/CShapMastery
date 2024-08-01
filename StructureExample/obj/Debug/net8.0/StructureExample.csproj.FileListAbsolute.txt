@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\StructureExample\bin\Debug\net8.0\StructureExample.exe
+E:\Development\C#Practice\C#Mastery\StructureExample\bin\Debug\net8.0\StructureExample.deps.json
+E:\Development\C#Practice\C#Mastery\StructureExample\bin\Debug\net8.0\StructureExample.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\StructureExample\bin\Debug\net8.0\StructureExample.dll
+E:\Development\C#Practice\C#Mastery\StructureExample\bin\Debug\net8.0\StructureExample.pdb
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.sourcelink.json
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.dll
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\refint\StructureExample.dll
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.pdb
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\StructureExample.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\StructureExample\obj\Debug\net8.0\ref\StructureExample.dll

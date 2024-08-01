@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\AnnonymousType\bin\Debug\net8.0\AnnonymousType.exe
+E:\Development\C#Practice\C#Mastery\AnnonymousType\bin\Debug\net8.0\AnnonymousType.deps.json
+E:\Development\C#Practice\C#Mastery\AnnonymousType\bin\Debug\net8.0\AnnonymousType.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\AnnonymousType\bin\Debug\net8.0\AnnonymousType.dll
+E:\Development\C#Practice\C#Mastery\AnnonymousType\bin\Debug\net8.0\AnnonymousType.pdb
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.sourcelink.json
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.dll
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\refint\AnnonymousType.dll
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.pdb
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\AnnonymousType.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\AnnonymousType\obj\Debug\net8.0\ref\AnnonymousType.dll

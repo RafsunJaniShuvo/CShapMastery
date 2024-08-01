@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\Tupple\bin\Debug\net8.0\Tupple.exe
+E:\Development\C#Practice\C#Mastery\Tupple\bin\Debug\net8.0\Tupple.deps.json
+E:\Development\C#Practice\C#Mastery\Tupple\bin\Debug\net8.0\Tupple.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\Tupple\bin\Debug\net8.0\Tupple.dll
+E:\Development\C#Practice\C#Mastery\Tupple\bin\Debug\net8.0\Tupple.pdb
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.sourcelink.json
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.dll
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\refint\Tupple.dll
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.pdb
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\Tupple.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\Tupple\obj\Debug\net8.0\ref\Tupple.dll

@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\bin\Debug\net8.0\CombiningKeywords.exe
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\bin\Debug\net8.0\CombiningKeywords.deps.json
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\bin\Debug\net8.0\CombiningKeywords.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\bin\Debug\net8.0\CombiningKeywords.dll
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\bin\Debug\net8.0\CombiningKeywords.pdb
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.sourcelink.json
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.dll
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\refint\CombiningKeywords.dll
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.pdb
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\CombiningKeywords.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\CombiningKeywords\obj\Debug\net8.0\ref\CombiningKeywords.dll

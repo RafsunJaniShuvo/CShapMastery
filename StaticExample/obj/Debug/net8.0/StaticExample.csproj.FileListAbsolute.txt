@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\StaticExample\bin\Debug\net8.0\StaticExample.exe
+E:\Development\C#Practice\C#Mastery\StaticExample\bin\Debug\net8.0\StaticExample.deps.json
+E:\Development\C#Practice\C#Mastery\StaticExample\bin\Debug\net8.0\StaticExample.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\StaticExample\bin\Debug\net8.0\StaticExample.dll
+E:\Development\C#Practice\C#Mastery\StaticExample\bin\Debug\net8.0\StaticExample.pdb
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.sourcelink.json
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.dll
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\refint\StaticExample.dll
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.pdb
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\StaticExample.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\StaticExample\obj\Debug\net8.0\ref\StaticExample.dll
