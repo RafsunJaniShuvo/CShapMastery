@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\DatetimeExample\bin\Debug\net8.0\DatetimeExample.exe
+E:\Development\C#Practice\C#Mastery\DatetimeExample\bin\Debug\net8.0\DatetimeExample.deps.json
+E:\Development\C#Practice\C#Mastery\DatetimeExample\bin\Debug\net8.0\DatetimeExample.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\DatetimeExample\bin\Debug\net8.0\DatetimeExample.dll
+E:\Development\C#Practice\C#Mastery\DatetimeExample\bin\Debug\net8.0\DatetimeExample.pdb
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.sourcelink.json
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.dll
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\refint\DatetimeExample.dll
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.pdb
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\DatetimeExample.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\DatetimeExample\obj\Debug\net8.0\ref\DatetimeExample.dll
