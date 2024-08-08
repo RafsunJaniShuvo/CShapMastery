@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+E:\Development\C#Practice\C#Mastery\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+E:\Development\C#Practice\C#Mastery\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+E:\Development\C#Practice\C#Mastery\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.sourcelink.json
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll

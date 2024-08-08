@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\GenericExample\bin\Debug\net8.0\GenericExample.exe
+E:\Development\C#Practice\C#Mastery\GenericExample\bin\Debug\net8.0\GenericExample.deps.json
+E:\Development\C#Practice\C#Mastery\GenericExample\bin\Debug\net8.0\GenericExample.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\GenericExample\bin\Debug\net8.0\GenericExample.dll
+E:\Development\C#Practice\C#Mastery\GenericExample\bin\Debug\net8.0\GenericExample.pdb
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.sourcelink.json
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.dll
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\refint\GenericExample.dll
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.pdb
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\GenericExample.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\GenericExample\obj\Debug\net8.0\ref\GenericExample.dll
