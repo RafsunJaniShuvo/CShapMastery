@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\bin\Debug\net8.0\ImportantInterfaces.exe
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\bin\Debug\net8.0\ImportantInterfaces.deps.json
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\bin\Debug\net8.0\ImportantInterfaces.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\bin\Debug\net8.0\ImportantInterfaces.dll
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\bin\Debug\net8.0\ImportantInterfaces.pdb
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.sourcelink.json
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.dll
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\refint\ImportantInterfaces.dll
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.pdb
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ImportantInterfaces.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\ImportantInterfaces\obj\Debug\net8.0\ref\ImportantInterfaces.dll
