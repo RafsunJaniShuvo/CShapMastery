@@ -8,8 +8,8 @@ namespace ImportantInterfaces
 {
     public class IEnumerableExample
     {
-        //Enurable doesn contain add, remove , count, isReadOnly
-        // Enurable only contain basic iteration
+        // Enumerable doesnt contain add, remove , count, isReadOnly
+        // Enumerable only contain basic iteration
         public void Example()
         {
             IEnumerable<int> numbers = new List<int> { 1, 2, 3, 4, 5 };

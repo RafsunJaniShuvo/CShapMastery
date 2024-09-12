@@ -1,0 +1,15 @@
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\bin\Debug\net8.0\FileSystemMastery.exe
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\bin\Debug\net8.0\FileSystemMastery.deps.json
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\bin\Debug\net8.0\FileSystemMastery.runtimeconfig.json
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\bin\Debug\net8.0\FileSystemMastery.dll
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\bin\Debug\net8.0\FileSystemMastery.pdb
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.AssemblyInfoInputs.cache
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.AssemblyInfo.cs
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.csproj.CoreCompileInputs.cache
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.sourcelink.json
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.dll
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\refint\FileSystemMastery.dll
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.pdb
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\FileSystemMastery.genruntimeconfig.cache
+E:\Development\C#Practice\C#Mastery\FileSystemMastery\obj\Debug\net8.0\ref\FileSystemMastery.dll
