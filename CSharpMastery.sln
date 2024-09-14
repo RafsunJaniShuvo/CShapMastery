@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportantInterfaces", "Impo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Reflection\Reflection.csproj", "{1C18AB04-E922-477D-840D-B95D269135DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemMastery", "FileSystemMastery\FileSystemMastery.csproj", "{D5EFDD8C-C8A5-46F7-99D4-53C3AC3787C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemMastery", "FileSystemMastery\FileSystemMastery.csproj", "{D5EFDD8C-C8A5-46F7-99D4-53C3AC3787C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-V2", "OOP-V2\OOP-V2.csproj", "{6E98E0A1-EB4F-44BF-A6C7-AA0FA83F0E3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{D5EFDD8C-C8A5-46F7-99D4-53C3AC3787C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5EFDD8C-C8A5-46F7-99D4-53C3AC3787C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5EFDD8C-C8A5-46F7-99D4-53C3AC3787C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E98E0A1-EB4F-44BF-A6C7-AA0FA83F0E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E98E0A1-EB4F-44BF-A6C7-AA0FA83F0E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E98E0A1-EB4F-44BF-A6C7-AA0FA83F0E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E98E0A1-EB4F-44BF-A6C7-AA0FA83F0E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

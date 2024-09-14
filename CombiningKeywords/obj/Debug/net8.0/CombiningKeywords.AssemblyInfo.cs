@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombiningKeywords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edcbfc1bbe908e8f4c75c32747b597c59403445")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc1e330dcc0a1421806d2170ca0ea4a6a7f237f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombiningKeywords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombiningKeywords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
